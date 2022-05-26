@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     private FloatingActionButton fab;
 
     private static final String TAG = MainActivity.class.getSimpleName();
-    private static String url_select = "http://10.0.2.2/umyTI/bacateman.php";
+    private static String url_select = "http://praktikumtiumy.com/bacateman.php";
     private static final String TAG_ID = "id";
     private static final String TAG_NAMA = "nama";
     private static final String TAG_TELPON = "telpon";
